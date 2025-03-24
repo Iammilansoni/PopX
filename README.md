@@ -10,12 +10,7 @@ This is the **UI Assignment** for **Educase India**, built using **Next.js** and
 - **TypeScript** (5)
 - **React Hook Form**
 - **Radix UI Components**
-- **Recharts**
-- **Embla Carousel**
 - **Zod Validation**
-- **Lucide Icons**
-- **PostCSS**
-- **Sonner for Toast Notifications**
 
 ---
 
@@ -32,7 +27,7 @@ Ensure you have the following installed:
 
 Clone the repository and install dependencies:
 
-```sh
+
 git clone https://github.com/Iammilansoni/PopX.git
 cd PopX
 npm install
@@ -51,7 +46,6 @@ npm run build
 npm run start
 
 
----
 
 📂 Project Structure
 
@@ -68,22 +62,6 @@ npm run start
  ┗ 📜 tsconfig.json  # TypeScript Config
 
 
----
-
-🔧 Scripts
-
-
----
-
-✨ Features
-
-✅ Modern UI Design
-✅ Fully Responsive
-✅ Form Validation with Zod & React Hook Form
-✅ Optimized Performance
-
-
----
 
 📌 Dependencies
 The project includes Radix UI components, Recharts, and other utility libraries. See the package.json for the full list.
