@@ -49,19 +49,6 @@ npm run start
 
 📂 Project Structure
 
-📦 my-v0-project
- ┣ 📂 public        # Static assets
- ┣ 📂 src          # Source code
- ┃ ┣ 📂 components  # UI components
- ┃ ┣ 📂 pages       # Next.js pages
- ┃ ┣ 📂 styles      # TailwindCSS styles
- ┃ ┗ 📂 utils       # Helper functions
- ┣ 📜 package.json  # Dependencies & Scripts
- ┣ 📜 tailwind.config.js # TailwindCSS Config
- ┣ 📜 next.config.js     # Next.js Config
- ┗ 📜 tsconfig.json  # TypeScript Config
-
-
 
 📌 Dependencies
 The project includes Radix UI components, Recharts, and other utility libraries. See the package.json for the full list.
