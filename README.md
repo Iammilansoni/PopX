@@ -10,7 +10,6 @@ This is the **UI Assignment** for **Educase India**, built using **Next.js** and
 - **TypeScript** (5)
 - **React Hook Form**
 - **Radix UI Components**
-- **Zod Validation**
 
 ---
 
