@@ -44,11 +44,11 @@ Open http://localhost:3000 in your browser.
 4️⃣ Build for Production
 
 npm run build
+
 npm run start
 
 
 
-📂 Project Structure
 
 
 📌 Dependencies
